@@ -28,9 +28,9 @@
 ### 📫 Cómo contactarme
 
 <p align="center">
-  <a href="mailto:eljishiemilio@gmail.com"><img src="https://img.shields.io/badge/Email-amel%40example.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:eljishiemilio@gmail.com"><img src="https://img.shields.io/badge/Email-eljishiemilio@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="[https://www.linkedin.com/in/Emilio](https://www.linkedin.com/in/emilio-eljishi-71462b1a5/)"><img src="https://img.shields.io/badge/LinkedIn-Amel-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/eljishi"><img src="https://img.shields.io/badge/GitHub-Amel-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/eljishi"><img src="https://img.shields.io/badge/GitHub-Eljishi-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
